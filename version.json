@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "date": "2026-03-03",
+  "changelog": [
+    "Première version publique",
+    "Support SNKRS (LEO, DRA, FCFS)",
+    "Monitoring rapide via API",
+    "Notifications Discord"
+  ],
+  "downloadUrl": "https://REMPLACE_PAR_TON_LIEN_DE_TELECHARGEMENT"
+}
